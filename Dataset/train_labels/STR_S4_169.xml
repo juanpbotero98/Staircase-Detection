@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Stairs</folder>
+	<filename>STR_S4_169.jpg</filename>
+	<path>C:\Users\juanp\Documents\JPB\Universidad\Proyecto de grado\Vision por computador\Base de datos\MCIndoor dataset\Stairs\STR_S4_169.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2594</width>
+		<height>3458</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stairs_down</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1308</ymin>
+			<xmax>2594</xmax>
+			<ymax>2604</ymax>
+		</bndbox>
+	</object>
+</annotation>

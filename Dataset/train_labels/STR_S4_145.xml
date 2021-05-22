@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Stairs</folder>
+	<filename>STR_S4_145.jpg</filename>
+	<path>C:\Users\juanp\Documents\JPB\Universidad\Proyecto de grado\Vision por computador\Base de datos\MCIndoor dataset\Stairs\STR_S4_145.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3120</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stairs_up</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>328</xmin>
+			<ymin>632</ymin>
+			<xmax>3120</xmax>
+			<ymax>4105</ymax>
+		</bndbox>
+	</object>
+</annotation>

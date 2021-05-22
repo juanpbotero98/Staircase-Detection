@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>4 (35)_flipped.jpg</filename>
+	<path>C:\Users\juanp\Documents\JPB\Universidad\Proyecto de grado\Vision por computador\Base de datos\stairs_dataset\train\4 (35)_flipped.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2304</width>
+		<height>1152</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stairs_up</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>549</xmin>
+			<ymin>171</ymin>
+			<xmax>2094</xmax>
+			<ymax>598</ymax>
+		</bndbox>
+	</object>
+</annotation>

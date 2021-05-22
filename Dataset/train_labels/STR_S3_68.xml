@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Stairs</folder>
+	<filename>STR_S3_68.JPG</filename>
+	<path>C:\Users\juanp\Documents\JPB\Universidad\Proyecto de grado\Vision por computador\Base de datos\MCIndoor dataset\Stairs\STR_S3_68.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3940</width>
+		<height>2955</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stairs_up</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1112</xmin>
+			<ymin>288</ymin>
+			<xmax>3196</xmax>
+			<ymax>2298</ymax>
+		</bndbox>
+	</object>
+</annotation>

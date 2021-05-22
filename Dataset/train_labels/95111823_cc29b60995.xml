@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>95111823_cc29b60995.jpg</filename>
+	<path>C:\Users\juanp\Documents\JPB\Universidad\Proyecto de grado\Vision por computador\Base de datos\stairs_dataset\train\95111823_cc29b60995.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>333</width>
+		<height>500</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stairs_up</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>125</ymin>
+			<xmax>236</xmax>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+</annotation>

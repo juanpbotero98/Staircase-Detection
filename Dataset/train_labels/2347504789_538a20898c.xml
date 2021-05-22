@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>2347504789_538a20898c.jpg</filename>
+	<path>C:\Users\juanp\Documents\JPB\Universidad\Proyecto de grado\Vision por computador\Base de datos\stairs_dataset\test\2347504789_538a20898c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stairs_up</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>188</ymin>
+			<xmax>375</xmax>
+			<ymax>477</ymax>
+		</bndbox>
+	</object>
+</annotation>
