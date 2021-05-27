@@ -1,0 +1,20 @@
+# Object detection metrics 
+https://github.com/rafaelpadilla/review_object_detection_metrics.git
+https://github.com/rafaelpadilla/Object-Detection-Metrics.git
+
+# Efficient-Det 
+https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html 
+https://github.com/coderhss/efficientdet-pytorch.git
+https://github.com/toandaominh1997/EfficientDet.Pytorch.git
+https://github.com/rwightman/efficientdet-pytorch.git
+
+# Quantization
+https://pytorch.org/blog/introduction-to-quantization-on-pytorch/#device-and-operator-support
+https://pytorch.org/tutorials/recipes/recipes/dynamic_quantization.html
+https://pytorch.org/tutorials/intermediate/quantized_transfer_learning_tutorial.html
+https://spell.ml/blog/pytorch-quantization-X8e7wBAAACIAHPhT
+https://leimao.github.io/article/Neural-Networks-Quantization/
+https://leimao.github.io/blog/PyTorch-Quantization-Aware-Training/
+https://github.com/leimao/PyTorch-Quantization-Aware-Training.git
+https://leimao.github.io/blog/PyTorch-Static-Quantization/
+https://github.com/leimao/PyTorch-Static-Quantization.git

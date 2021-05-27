@@ -8,7 +8,7 @@ for file in tqdm(lbl_list, desc = 'Converting labels'):
     file_pth = open(pth,'r')
     xml_content = file_pth.read()
     xml_dict = xmltodict.parse(xml_content)
-    txt_file = open(os.path.join('Dataset','test_labels_txt',"{}.txt".format(file.split('.')[0])),"w")
+    txt_file = open(os.path.join('Dataset','groundtruths_txt',"{}.txt".format(file.split('.')[0])),"w")
     # for annot in xml_dict['annotation']['object']:
     #     annot_dict = dict(annot['bndbox'])
     if type(xml_dict['annotation']['object']) == list:
