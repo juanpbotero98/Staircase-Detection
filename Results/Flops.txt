@@ -1,0 +1,2 @@
+The flops of the fp32 model are: 30.568809056 GFlops
+The flops of the int8 model are: 29.889452256 GFlops

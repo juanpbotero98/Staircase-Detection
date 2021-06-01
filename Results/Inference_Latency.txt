@@ -1,0 +1,4 @@
+FP32 CPU Inference Latency: 1162.75 ms / sample
+FP32 GPU Inference Latency: 28.92 ms / sample
+Int8 (Static Quant) CPU Inference Latency: 703.93 ms / sample
+Int8 (QAT) CPU Inference Latency: 288.25 ms / sample
